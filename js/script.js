@@ -1,2 +1,7 @@
+debugger;
+const isFriday = true;
+
 console.log('Hello, World!');
-console.log('Happy Friday!');
+if(isFriday) {
+    console.log('Happy Friday!');
+}
